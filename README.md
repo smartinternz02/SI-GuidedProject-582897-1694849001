@@ -13,5 +13,5 @@ Online Story
 https://us1.ca.analytics.ibm.com/bi/?perspective=story&pathRef=.my_folders%2FPROJECT%2Fonline_story&action=view&sceneId=model0000018a9c6250dc_00000002&sceneTime=0
 
 Online Report 
-https://us1.ca.analytics.ibm.com/bi/?pathRef=.my_folders%2FPROJECT%2Fonline_report&action=edit
+https://us1.ca.analytics.ibm.com/bi/?pathRef=.my_folders%2FPROJECT%2FNew%2Breport&action=run&format=HTML&prompt=false
 
